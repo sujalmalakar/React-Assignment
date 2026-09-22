@@ -20,3 +20,7 @@ https://users.metropolia.fi/~sujalm/routing/
 
 Live site:
 http://users.metropolia.fi/~sujalm/hooks/
+
+## Custom Hooks Assignment
+
+http://users.metropolia.fi/~sujalm/custom-hooks/
