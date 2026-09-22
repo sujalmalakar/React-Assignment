@@ -11,6 +11,8 @@ const Single = () => {
 
       <p>{item.description}</p>
 
+      <p>Owner: {item.username}</p>
+
       {item.media_type === "video/mp4" ? (
         <video src={item.filename} controls />
       ) : (
