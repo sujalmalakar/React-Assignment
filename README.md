@@ -24,3 +24,15 @@ http://users.metropolia.fi/~sujalm/hooks/
 ## Custom Hooks Assignment
 
 http://users.metropolia.fi/~sujalm/custom-hooks/
+
+## Forms Assignment
+
+Live site:
+
+https://users.metropolia.fi/~sujalm/forms/
+
+## Context Assignment
+
+Live site:
+
+https://users.metropolia.fi/~sujalm/context/
